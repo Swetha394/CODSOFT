@@ -1,0 +1,65 @@
+===== To-Do List Menu =====
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. Display Tasks
+5. Quit
+Enter your choice: 1
+Enter task description: to complete assignment
+
+===== To-Do List Menu =====
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. Display Tasks
+5. Quit
+Enter your choice: 1
+Enter task description: to read for tmrw's test
+
+===== To-Do List Menu =====
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. Display Tasks
+5. Quit
+Enter your choice: 1
+Enter task description: to go for shopping
+
+===== To-Do List Menu =====
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. Display Tasks
+5. Quit
+Enter your choice: 4
+1. to complete assignment - Not Completed
+2. to read for tmrw's test - Not Completed
+3. to go for shopping - Not Completed
+
+===== To-Do List Menu =====
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. Display Tasks
+5. Quit
+Enter your choice: 3
+Enter task index to mark as completed: 1
+
+===== To-Do List Menu =====
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. Display Tasks
+5. Quit
+Enter your choice: 4
+1. to complete assignment - Completed
+2. to read for tmrw's test - Not Completed
+3. to go for shopping - Not Completed
+
+===== To-Do List Menu =====
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. Display Tasks
+5. Quit
+Enter your choice: 5
