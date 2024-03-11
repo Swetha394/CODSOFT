@@ -1,4 +1,4 @@
-# CODSOFT
+# TO-DO-LIST APP
 CODSOFT Task 1 TO-DO-LIST APPLICATION project in python
 It has many features such as
        1)Adding a task
